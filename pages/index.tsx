@@ -35,15 +35,6 @@ const Models = (props: any) => {
     return (
         <SimpleGrid columns={{base: 1, md: 2}} spacing={{base: 5, lg: 8}}>
             {displayModels}{" "}
-            <model-viewer
-                src="https://modelviewer.dev/assets/ShopifyModels/Chair.glb"
-                poster="https://modelviewer.dev/assets/ShopifyModels/Chair.webp"
-                shadow-intensity="1" ar camera-controls touch-action="pan-y" alt="A 3D model carousel">
-
-                <button slot="ar-button" id="ar-button">
-                    View in your space
-                </button>
-            </model-viewer>
         </SimpleGrid>
     );
 };
