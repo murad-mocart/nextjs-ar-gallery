@@ -74,7 +74,7 @@ const Model = (props: any) => {
       <model-viewer
         id="first"
         src={props.glbFile}
-        ios-src={iosSrc}
+        // ios-src={iosSrc}
         seamless-poster
         environment-image="neutral"
         exposure="1.0"
