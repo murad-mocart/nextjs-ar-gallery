@@ -16,8 +16,8 @@
   },
   "models": [
     {
-      "name": "Gastronom",
-      "glbFile": "https://storage.googleapis.com/ppc-models/models/Gastronom.glb",
+      "name": "Bloom",
+      "glbFile": "https://storage.googleapis.com/ppc-models/models/Bloom_Am.glb",
       "attributes": [
       ]
     },
