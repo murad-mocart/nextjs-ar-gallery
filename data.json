@@ -24,7 +24,7 @@
     {
       "name": "Lustra Am",
       "glbFile": "https://storage.googleapis.com/ppc-models/models/Lustra_Am_2.glb",
-      "usdzFile": "https://storage.googleapis.com/ppc-models/models/Lustra_Am_2.usdz",
+      "usdzFile": "https://storage.googleapis.com/ppc-models/models/Lustra_Am_2.glb",
       "attributes": [
 
       ]
