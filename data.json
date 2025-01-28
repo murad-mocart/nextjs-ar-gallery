@@ -1,14 +1,14 @@
 {
   "artist": {
-    "name": "Michael Gold",
-    "avatar": "/images/avatar.jpg",
-    "shortBio": "Generative Artist",
+    "name": "Mocart Showcase",
+    "avatar": "/images/mocart_logo.jpg",
+    "shortBio": "Immersive E-commerce Platforms",
     "socials": [
-      { "icon": "FaHome", "url": "https://mike.gold" },
-      { "icon": "FaTwitter", "url": "https://twitter.com/michaelgold" },
-      { "icon": "FaGithub", "url": "https://github.com/michaelgold" },
-      { "icon": "FaLinkedin", "url": "https://linkedin.com/in/gold1" },
-      { "icon": "FaUniversity", "url": "https://sva.edu/faculty/michael-gold" }
+      { "icon": "FaHome", "url": "https://mocart.io/" },
+      { "icon": "FaTwitter", "url": "https://mocart.io/" },
+      { "icon": "FaGithub", "url": "https://mocart.io/" },
+      { "icon": "FaLinkedin", "url": "https://mocart.io/" },
+      { "icon": "FaUniversity", "url": "https://mocart.io/" }
     ]
   },
   "project": {
@@ -16,8 +16,8 @@
   },
   "models": [
     {
-      "name": "Gold Cube",
-      "glbFile": "/assets/gold-cube.glb",
+      "name": "Gastronom",
+      "glbFile": "https://storage.googleapis.com/ppc-models/models/Gastronom.glb",
       "attributes": [
         { "trait_type": "shape", "value": "cube" },
         { "trait_type": "size", "value": "small" },
@@ -26,8 +26,8 @@
       ]
     },
     {
-      "name": "Silver Cube",
-      "glbFile": "/assets/silver-cube.glb",
+      "name": "Cloud Bag",
+      "glbFile": "https://storage.googleapis.com/ppc-models/models/Cloudbag_JSF.glb",
       "attributes": [
         { "trait_type": "shape", "value": "cube" },
         { "trait_type": "size", "value": "small" },
@@ -36,8 +36,8 @@
       ]
     },
     {
-      "name": "Red Cube",
-      "glbFile": "/assets/red-cube.glb",
+      "name": "Steam Iron",
+      "glbFile": "https://storage.googleapis.com/ppc-models/models/SteamIron.glb",
       "attributes": [
         { "trait_type": "shape", "value": "cube" },
         { "trait_type": "size", "value": "small" },
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "name": "Green Cube",
-      "glbFile": "/assets/green-cube.glb",
+      "name": "Jade Egg",
+      "glbFile": "https://storage.googleapis.com/ppc-models/models/Jadeegg_NB.glb",
       "attributes": [
         { "trait_type": "shape", "value": "cube" },
         { "trait_type": "size", "value": "small" },
