@@ -38,6 +38,7 @@
     {
       "name": "Lustra",
       "glbFile": "https://storage.googleapis.com/ppc-models/models/Lustra_Am_compressed.glb",
+      "usdzFile": "https://storage.googleapis.com/ppc-models/models/Lustra_Am_2.usdz",
       "attributes": [
 
       ]
