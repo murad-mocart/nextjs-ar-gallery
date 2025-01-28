@@ -74,7 +74,7 @@ const Model = (props: any) => {
       <model-viewer
         id="first"
         src={props.glbFile}
-        ios-src={iosSrc}
+        // ios-src={iosSrc}
         seamless-poster
         environment-image="neutral"
         exposure="1.0"
@@ -82,7 +82,7 @@ const Model = (props: any) => {
         shadow-intensity="0"
         ar
         autoplay
-        arModes="webxr scene-viewer"
+        arModes="webxr scene-viewer quick-look"
         autoRotate
         camera-controls
         camera-orbit="0deg 90deg 0deg 8.37364m"
