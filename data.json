@@ -22,8 +22,9 @@
       ]
     },
     {
-      "name": "Cloud Bag",
-      "glbFile": "https://storage.googleapis.com/ppc-models/models/Cloudbag_JSF.glb",
+      "name": "Lustra Am",
+      "glbFile": "https://storage.googleapis.com/ppc-models/models/Lustra_Am_2.glb",
+      "usdzFile": "https://storage.googleapis.com/ppc-models/models/Lustra_Am_2.usdz",
       "attributes": [
 
       ]
