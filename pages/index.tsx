@@ -63,13 +63,7 @@ export const Footer = () => (
   <Container as="footer" role="contentinfo" py={{ base: "12", md: "16" }}>
     <Flex justify={"center"}>
       <Text fontSize="sm" color="subtle">
-        <Link href={"https://github.com/michaelgold/nextjs-ar-gallery"}>
-          <a>AR Example Template</a>
-        </Link>{" "}
-        -- MIT Licensed and &copy; {new Date().getFullYear()}{" "}
-        <Link href="https://mike.gold">
-          <a>Michael Gold</a>
-        </Link>{" "}
+        Powered By Mocart &copy; {new Date().getFullYear()}{" "}
       </Text>
     </Flex>
   </Container>

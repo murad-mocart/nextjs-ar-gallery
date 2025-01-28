@@ -12,47 +12,34 @@
     ]
   },
   "project": {
-    "name": "AR Gallery Example"
+    "name": "Mocart's AR Gallery"
   },
   "models": [
     {
       "name": "Gastronom",
       "glbFile": "https://storage.googleapis.com/ppc-models/models/Gastronom.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "gold" },
-        { "trait_type": "material", "value": "metal" }
       ]
     },
     {
       "name": "Cloud Bag",
       "glbFile": "https://storage.googleapis.com/ppc-models/models/Cloudbag_JSF.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "silver" },
-        { "trait_type": "material", "value": "metal" }
+
       ]
     },
     {
       "name": "Steam Iron",
       "glbFile": "https://storage.googleapis.com/ppc-models/models/SteamIron.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "red" },
-        { "trait_type": "material", "value": "plastic" }
+
       ]
     },
     {
       "name": "Jade Egg",
       "glbFile": "https://storage.googleapis.com/ppc-models/models/Jadeegg_NB.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "green" },
-        { "trait_type": "material", "value": "plastic" }
+
       ]
     }
   ]
